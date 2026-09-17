@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+/bin/
+
+go.work
+go.work.sum
+
+.DS_Store
+go-homework-1
